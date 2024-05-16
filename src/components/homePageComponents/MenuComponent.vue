@@ -1,0 +1,9 @@
+<template>
+    <section>
+        <ul>
+            <li>Home</li>
+            <li>Books</li>
+            <li>Account</li>
+        </ul>
+    </section>
+</template>

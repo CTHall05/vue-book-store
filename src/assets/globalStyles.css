@@ -1,0 +1,14 @@
+:root {
+    box-sizing: border-box;
+    --primary-colour: #668e59;
+    --secondary-colour: #013564;
+    --third-colour: #7e8d85;
+    --fontColour-one: #BDBDBE;
+    --fontColour-two: #323232;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

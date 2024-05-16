@@ -1,0 +1,177 @@
+[
+    {
+      "title": "The Hobbit",
+      "category": "Fantasy",
+      "image": "hobbit.jpg",
+      "price": "$11"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "category": "Fantasy",
+      "image": "harry_potter.jpg",
+      "price": "$12"
+    },
+    {
+      "title": "The Name of the Wind",
+      "category": "Fantasy",
+      "image": "name_of_the_wind.jpg",
+      "price": "$14"
+    },
+    {
+      "title": "Mistborn: The Final Empire",
+      "category": "Fantasy",
+      "image": "mistborn.jpg",
+      "price": "$13"
+    },
+    {
+      "title": "The Lion, the Witch and the Wardrobe",
+      "category": "Fantasy",
+      "image": "lion_witch_wardrobe.jpg",
+      "price": "$12"
+    },
+    {
+      "title": "A Game of Thrones",
+      "category": "Fantasy",
+      "image": "game_of_thrones.jpg",
+      "price": "$14"
+    },
+    {
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "category": "Fantasy",
+      "image": "percy_jackson.jpg",
+      "price": "$11"
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "category": "Fantasy",
+      "image": "fellowship_of_the_ring.jpg",
+      "price": "$13"
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "category": "Childhood",
+      "image": "/book/covers-childhood/CharlottesWeb/whereTheWildeThingsAre.jpg",
+      "price": "$13"
+    },
+    {
+      "title": "Charlotte's Web",
+      "category": "Childhood",
+      "image": "/book/covers-childhood/CharlottesWeb.jpg",
+      "price": "$11"
+    },
+    {
+      "title": "Goodnight Moon",
+      "category": "Childhood",
+      "image": "/book/covers-childhood/GoodNightMood.jpg",
+      "price": "$14"
+    },
+    {
+      "title": "The Very Hungry Caterpillar",
+      "category": "Childhood",
+      "image": "/book/covers-childhood/Theveryhungrycatirpillar_play.jpg",
+      "price": "$12"
+    },
+    {
+      "title": "The Giving Tree",
+      "category": "Childhood",
+      "image": "/book/covers-childhood/The_Giving_Tree.jpg",
+      "price": "$13"
+    },
+    {
+      "title": "Green Eggs and Ham",
+      "category": "Childhood",
+      "image": "/book/covers-childhood/green_eggs_and_ham.jpg",
+      "price": "$11"
+    },
+    {
+      "title": "Corduroy",
+      "category": "Childhood",
+      "image": "/book-covers-history/ShortHistoryofNearlyEverything.jpg",
+      "price": "$14"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "category": "Young Adult",
+      "image": "catcher_in_the_rye.jpg",
+      "price": "$14"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "category": "Young Adult",
+      "image": "to_kill_a_mockingbird.jpg",
+      "price": "$13"
+    },
+    {
+      "title": "The Giver",
+      "category": "Young Adult",
+      "image": "giver.jpg",
+      "price": "$12"
+    },
+    {
+      "title": "The Hunger Games",
+      "category": "Young Adult",
+      "image": "hunger_games.jpg",
+      "price": "$11"
+    },
+    {
+      "title": "Twilight",
+      "category": "Young Adult",
+      "image": "twilight.jpg",
+      "price": "$14"
+    },
+    {
+      "title": "Divergent",
+      "category": "Young Adult",
+      "image": "divergent.jpg",
+      "price": "$13"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "category": "Young Adult",
+      "image": "fault_in_our_stars.jpg",
+      "price": "$12"
+    },
+    {
+        "title": "A Short History of Nearly Everything",
+        "category": "History",
+        "image": "/book-covers-history/ShortHistoryofNearlyEverything.jpg",
+        "price": "$11"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "category": "History",
+        "image": "/book-covers-history/Sapiens.jpg",
+        "price": "$13"
+    },
+    {
+      "title": "The Guns of August",
+      "category": "History",
+      "image": "/book-covers-history/TheGunsOfAugust.jpg",
+      "price": "$12"
+    },
+    {
+      "title": "A People's History of the United States",
+      "category": "History",
+      "image": "/book-covers-history/APeoplesHistoryoftheUnitedStates.jpg",
+      "price": "$14"
+    },
+    {
+      "title": "Band of Brothers: E Company, 506th Regiment",
+      "category": "History",
+      "image": "/book-covers-history/BandofBrothersBookCover.jpg",
+      "price": "$11"
+    },
+    {
+      "title": "1776",
+      "category": "History",
+      "image": "/book-covers-history/1776.jpg",
+      "price": "$12"
+    },
+    {
+      "title": "The Rise and Fall of the Third Reich",
+      "category": "History",
+      "image": "/book-covers-history/RiseandFallofThirdReich.jpg",
+      "price": "$14"
+    }
+  ]
+  
